@@ -1,4 +1,4 @@
-# World-Travel-Website
+# World Travel Website
 
 Link for this website - https://worldtravelarjo.netlify.app
 
